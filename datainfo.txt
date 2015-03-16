@@ -1,0 +1,7 @@
+In order to run the script you will have to get the data from the kaggle competition website:
+http://www.kaggle.com/c/datasciencebowl/data
+Then you will have to unzip the data and put those folders into a competition_data folder for the script 
+to work correctly or modify the script to read in from the current directory which has the train and test
+data. This will be modified and the correct directory hierarchy added after 3/17/15 due to the size of the
+data resting on another directory on my system. Will move and push to repo after the other directory is
+finished working with.
